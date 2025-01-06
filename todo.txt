@@ -1,2 +1,4 @@
 where you can find all study spaces / occupancy levels
+personalized study schedule based on deadlines, course difficulty, gym time, dinner/lunch time, free time, other commitments, etc
+one more feature to add: send a friend a request to compare schedules to find free time to meetup between friends, don't show each other's schedules but rather only common free times
 
